@@ -1,0 +1,11 @@
+@media all and (max-width: 900px) {
+  .menu-item {
+    width: 70%;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+  }
+  .logo-icon {
+    display: none;
+  }
+}
